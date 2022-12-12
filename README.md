@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm just trying to make a webpage i can use to share my art, speak about my daily life, and take care of to keep me busy :)
 
 <!--
 **Issactly/Issactly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
